@@ -73,7 +73,7 @@ Contributions are welcome. Open an issue describing your change and submit a pul
 
 ## License
 
-This repository does not include a license file by default. Add a `LICENSE` file if you want to grant reuse rights (MIT, Apache-2.0, etc.).
+None for the moment.
 
 ## Contact
 
