@@ -78,7 +78,3 @@ This repository does not include a license file by default. Add a `LICENSE` file
 ## Contact
 
 If you'd like help customizing this README or the app (branding, screenshots, features), open an issue or reply here.
-
----
-
-_Generated README for quick GitHub publishing. Edit as needed to add screenshots, contributor guidelines, and a license._
